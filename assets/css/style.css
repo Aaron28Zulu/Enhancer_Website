@@ -43,10 +43,25 @@ img {
     color: var(--color-content);
 }
 
+.navbar .nav-link:active {
+    color: var(--color-content);
+}
+
+a:active {
+    color: var(--color-content);
+}
+
 p {
     margin-bottom: 5px;
+    color: var(--color-body);
 }
 
 #Para {
     color: var(--color-body);
+}
+
+#HOME {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
 }
