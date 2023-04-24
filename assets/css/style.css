@@ -42,3 +42,11 @@ img {
 .navbar .nav-link:hover {
     color: var(--color-content);
 }
+
+p {
+    margin-bottom: 5px;
+}
+
+#Para {
+    color: var(--color-body);
+}
