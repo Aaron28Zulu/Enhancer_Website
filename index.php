@@ -88,6 +88,28 @@
             </div>
         </section>
     </div>
+
+    <!-- FOOTER -->
+
+    <footer class="bg-secondary">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-6">
+                    <div class="my-3">
+                        Copyright &#169; content goes here
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6">
+                    <div class="text-center">
+                        <div class="h4 my-3">
+                            FOLLOW US ON
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </footer>
     
 
 <script src="./assets/js/aos.js"></script>
