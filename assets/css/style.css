@@ -61,6 +61,14 @@ p {
 }
 
 #footer .form-control {
-    background-color: var(--color-base);
-    color: #f0f0e8;
+    background-color: #fff;
+    color: var(--color-body);
+}
+
+#footer .accordion-button {
+    background-color: rgb(230,233,227);
+}
+
+ul {
+    list-style: none;
 }
