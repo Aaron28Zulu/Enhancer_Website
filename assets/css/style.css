@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,500&display=swap');
 
 :root {
-    --color-base: rgb(230, 233, 227);
+    --color-base: rgba(243, 247, 239, 0.986);
     --color-body: #2d2e2c;
     --color-heading: rgb(204, 119, 8);
     --color-content:  rgba(55, 126, 75, 1);
@@ -62,7 +62,7 @@ p {
 
 #footer .form-control {
     background-color: #fff;
-    color: var(--color-body);
+    color: rgba(230, 233, 227, 0.7);
 }
 
 #footer .accordion-button {
@@ -71,4 +71,12 @@ p {
 
 ul {
     list-style: none;
+}
+
+ul .dropdown-item {
+    border-top: 1px solid rgba(230, 233, 227, 0.7);
+}
+
+ul .more {
+    background-color: rgba(230, 233, 227, 0.7);
 }
